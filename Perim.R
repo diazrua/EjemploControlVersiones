@@ -7,5 +7,5 @@ Longcircunf <- function(R) {
 }
 
 Perimrectangulo <- function(B, A) {
-  return((A+B)*2)
+  return((B+A)*2)
 }
