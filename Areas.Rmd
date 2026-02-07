@@ -27,4 +27,9 @@ Altura <- 4
 Area_triangulo = (Base*Altura)/2
 ```
 
-
+# Área de rectangulo
+```{r}
+Base <- 6
+Altura <- 2
+Area_rectangulo = Base*Altura
+```
