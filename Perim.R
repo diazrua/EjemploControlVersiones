@@ -3,5 +3,9 @@ Perimetrocuadrado <- function(L) {
 }
 
 Longcircunf <- function(R) {
-  return(2*pi*R)
+  return(2*3.14159*R)
+}
+
+Perimrectangulo <- function(B, A) {
+  return(2*(B+A))
 }
