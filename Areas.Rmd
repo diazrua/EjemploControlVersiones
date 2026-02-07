@@ -33,3 +33,10 @@ Base <- 6
 Altura <- 2
 Area_rectangulo = Base*Altura
 ```
+
+# Área de trapecio
+```{r}
+area_trapecio <- function(B, b, H) {
+  return((B + b) * H / 2)
+}
+```
