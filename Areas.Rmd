@@ -20,3 +20,11 @@ Lado <- 3
 Area_cuadrado <- Lado^2
 ```
 
+# Área de triangulo
+```{r}
+Base <- 12
+Altura <- 4
+Area_triangulo = (Base*Altura)/2
+```
+
+
